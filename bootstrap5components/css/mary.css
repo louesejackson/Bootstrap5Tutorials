@@ -7,3 +7,7 @@
     background-color: coral;
 }
 
+/* Image without alt attribute? */
+img:not([alt]) {
+    outline:2px dashed hotpink;
+}
