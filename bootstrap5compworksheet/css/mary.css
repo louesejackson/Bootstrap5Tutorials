@@ -1,4 +1,6 @@
 /* Image without alt attribute? */
+
+
 img:not([alt]) {
-    outline:2px dashed hotpink;
+    outline: 2px dashed hotpink;
 }
